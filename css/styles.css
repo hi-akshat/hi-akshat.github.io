@@ -78,6 +78,8 @@ header li{
 
 header a{
     display:block;
+    border-radius: 15px;
+    background-color: #000000;
     color:#ffffff;
     padding:10px
 }
@@ -85,7 +87,7 @@ header a{
 header a:hover{
     color:black;
     text-decoration:none;
-    background:white;
+    background:rgb(255, 255, 255);
     border-radius:4px
 }
 
@@ -114,6 +116,7 @@ header.sticky{
     right:15px;
     top:10px;
     color:#ffffff;
+    background-color: #000000;
     font-size:1.5em;
     z-index:20;
     padding:0 7px;
