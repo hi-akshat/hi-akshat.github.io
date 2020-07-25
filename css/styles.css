@@ -64,8 +64,8 @@ header{
 
 header ul{
     display:inline-block;
-    backdrop-filter: blur(500px);
     text-align:center;
+    background-color: #000000;
     padding:25px;
     margin:0;
     border-bottom-right-radius:15px;
