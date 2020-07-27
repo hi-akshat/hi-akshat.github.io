@@ -63,10 +63,11 @@ header{
 }
 
 header ul{
+    overflow: hidden;
     display:inline-block;
     text-align:center;
     background-color: #000000;
-    padding:25px;
+    padding:5px;
     margin:0;
     border-bottom-right-radius:15px;
     border-bottom-left-radius:15px 
